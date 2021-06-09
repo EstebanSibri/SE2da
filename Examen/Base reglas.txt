@@ -1,0 +1,25 @@
+R1 Si un animal tiene pelo -> es mamífero
+R2 Si un animal da leche -> es mamífero
+R3 Si un animal tiene plumas -> es un ave
+R4 Si un animal vuela -> es un ave
+R5 Si un animal pone huevos -> es un ave
+R6 Si un animal come carne -> es carnívoro
+R7 Si un animal tiene dientes puntiagudos -> es carnívoro
+R8 Si un animal tiene garras -> es carnívoro
+R9 Si un animal tiene ojos al frente -> es carnívoro
+R10 Si un animal tiene pezuñas -> es un ungulado
+R11 Si un animal tiene rumia -> es un ungulado
+R12 Si un animal tiene color leonado con manchas oscuras -> es un leopardo
+R13 Si un animal tiene color leonado con rayas negras -> es un tigre
+R14 Si un animal con cuello largo -> es una jirafa 
+R15 Si un animal con piernas largas -> es una jirafa
+R16 Si un animal tienen manchas oscuras -> es una jirafa
+R17 Si un animal con rayas negras -> es una cebra
+R18 Si un animal tiene el cuello largo -> es un avestruz
+R19 Si un animal tiene piernas largas -> es un avestruz
+R20 Si un animal tiene color blanco y negro -> es un avestruz
+R21 Si un animal no vuela -> es un pingüino
+R22 Si un animal nada -> es un pingüino
+R23 Si un animal de color blanco y negro -> es un pingüino
+R24 Si un animal que vuela bien -> es un albatros
+R25 Si un animal es de una especie y ese animal es padre de otro, entonces el hijo -> de la misma especie.
